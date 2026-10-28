@@ -1,6 +1,6 @@
 //Fangchun Li comment for Assignment15.
 
-void setup() {
+void setup() { 
   pinMode(A5, OUTPUT);
   pinMode(A4, OUTPUT);
   pinMode(A3, OUTPUT);
