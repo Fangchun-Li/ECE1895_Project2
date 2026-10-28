@@ -1,4 +1,4 @@
-//Fangchun Li comment for Assignment15.
+//Fangchun Li comment.
 
 void setup() {
   pinMode(A5, OUTPUT);
